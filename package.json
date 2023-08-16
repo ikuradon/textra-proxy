@@ -1,0 +1,19 @@
+{
+  "name": "yabume-textra",
+  "version": "0.0.0",
+  "main": "app.mjs",
+  "repository": "https://github.com/ikuradon/yabume-pusher.git",
+  "author": "ikuradon",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "dependencies": {
+    "@fastify/formbody": "^7.4.0",
+    "axios": "^1.4.0",
+    "axios-oauth-client": "^2.0.2",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.21.0"
+  }
+}
